@@ -1,8 +1,8 @@
 {
-    "name": "andreaskweber/php-junit-merge",
+    "name": "andreas-weber/php-junit-merge",
     "type": "library",
     "description": "PHP-Unit J-Unit XML File Merger",
-    "homepage": "https://github.com/andreaskweber/php-junit-merge",
+    "homepage": "https://github.com/andreas-weber/php-junit-merge",
     "license": "MIT",
     "authors": [
         {
@@ -12,7 +12,7 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/andreaskweber/php-junit-merge/issues"
+        "issues": "https://github.com/andreas-weber/php-junit-merge/issues"
     },
     "require": {
         "php": ">=7.4",
