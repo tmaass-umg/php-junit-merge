@@ -1,23 +1,18 @@
 {
-    "name": "tmaass-umg/php-junit-merge",
+    "name": "andreaskweber/php-junit-merge",
     "type": "library",
     "description": "PHP-Unit J-Unit XML File Merger",
-    "homepage": "https://github.com/tmaass-umg/php-junit-merge",
+    "homepage": "https://github.com/andreaskweber/php-junit-merge",
     "license": "MIT",
     "authors": [
         {
             "name": "Andreas Weber",
             "email": "code@andreas-weber.me",
             "role": "lead"
-        },
-        {
-            "name": "Tom Maass",
-            "email": "tm.cl@mailbox.org",
-            "role": "developer"
         }
     ],
     "support": {
-        "issues": "https://github.com/tmaass-umg/php-junit-merge/issues"
+        "issues": "https://github.com/andreaskweber/php-junit-merge/issues"
     },
     "require": {
         "php": ">=7.4",
