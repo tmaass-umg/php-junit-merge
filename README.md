@@ -1,4 +1,4 @@
-# andreas-weber/php-junit-merge
+## Based on andreas-weber/php-junit-merge
 
 [![Build Status](https://travis-ci.org/andreas-weber/php-junit-merge.svg?branch=master)](https://travis-ci.org/andreas-weber/php-junit-merge)
 
@@ -6,7 +6,7 @@
 
 ## Installation
 
-Simply add a dependency on `andreas-weber/php-junit-merge` to your project's `composer.json` file if you use [Composer](http://getcomposer.org/) to manage the dependencies of your project.
+Simply add a dependency on `tmaass-umg/php-junit-merge` to your project's `composer.json` file if you use [Composer](http://getcomposer.org/) to manage the dependencies of your project.
 
 ## Usage
 
